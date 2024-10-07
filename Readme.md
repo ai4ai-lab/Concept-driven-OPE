@@ -1,4 +1,4 @@
-This repository consists of the code for our submission Concept-driven Off Policy Evaluation. The repository is split into 4 sections: The 2 environments: Synthetic WindyGridworld and MIMIC-III dataset. The repository "Result" consists of the quantitative outputs of our experiments, while "Plots" consist of the code to replicate the plots of our experiments.
+This repository consists of the code for our paper: "Concept-driven Off Policy Evaluation". The repository is split into 4 sections: The 2 environments: Synthetic WindyGridworld and MIMIC-III dataset. The repository "Result" consists of the quantitative outputs of our experiments, while "Plots" consist of the code to replicate the plots of our experiments.
 
 ## Dataset generations:
 To generate the dataset for WindyGridworld: Run the code /WindyGridworld/trajectories_generation.py
